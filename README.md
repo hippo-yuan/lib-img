@@ -1,5 +1,6 @@
 si-img 图片优化组件  
-===  
+===   
+![](https://travis-ci.org/T-phantom/lib-img.svg?branch=master)  ![](https://img.shields.io/badge/npm-v1.0.0-blue.svg)  
 图片优化组件: 包括图片大小检测，webp格式适配，图片惰性加载，缓存等功能；  
 主要面向移动端，PC端不支持IE8及以下.    
 
